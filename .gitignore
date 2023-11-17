@@ -1,0 +1,4 @@
+# Common .gitignore entries
+node_modules/
+*.log
+.DS_Store
